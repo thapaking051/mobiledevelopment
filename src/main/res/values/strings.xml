@@ -1,7 +1,10 @@
 <resources>
-    <string name="app_name">FirstApp</string>
-    <string-array name="ticketsgroup">
-        <item>Savings</item>
-        <item>Spending</item>
-    </string-array>
+    <string name="app_name">medical app</string>
+    <string name="convert_patient_weight">Convert Patient Weight</string>
+    <string name="kilo_to_pound">Kilo to Pound</string>
+    <string name="convert">Convert</string>
+    <string name="weight">Weight</string>
+    <string name="textview">TextView</string>
+    <string name="pound_to_kilo">Pound to Kilo</string>
+    <string name="converted_weight">Converted Weight</string>
 </resources>
